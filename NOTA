@@ -1,0 +1,3 @@
+NOTA: 7.2  no se creo la clase Usuario en archivo aparte, hay metodos creados que no se implementaron,
+en la impresion en consola no define que tareas pertenecen al usuario , no sale el nombre del usuario,
+no se pueden editar tareas, no cambian los estados solo marcar como completada, no sale para eliminar tareas.
